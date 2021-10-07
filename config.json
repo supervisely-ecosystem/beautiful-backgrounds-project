@@ -6,6 +6,7 @@
     "demo"
   ],
   "icon": "https://img.icons8.com/fluency/96/000000/gallery.png",
-  "icon_cover": true
+  "icon_cover": false,
+  "icon_background": "#FFFFFF"
 
 }
